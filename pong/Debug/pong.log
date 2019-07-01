@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\abibulla\desktop\pong\pong\source.cpp(106): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\abibulla\desktop\pong\pong\source.cpp(108): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+  pong.vcxproj -> C:\Users\Abibulla\Desktop\pong\Debug\pong.exe
